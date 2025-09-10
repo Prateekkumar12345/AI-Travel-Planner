@@ -1,0 +1,15 @@
+requests
+beautifulsoup4
+google-search-results
+gradio
+groq
+sentence-transformers
+faiss-cpu
+numpy
+python-dotenv
+lxml
+html5lib
+transformers
+torch
+torchaudio
+torchvision
