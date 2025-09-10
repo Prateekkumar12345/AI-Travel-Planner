@@ -21,4 +21,5 @@ EXPOSE 7860
 
 # Command to run the application
 # Using python -u for unbuffered output to see logs in real-time
-CMD ["python", "-u", "travelAgent.py"]
+
+CMD ["python", "-u", "TravelAgent.py"]
